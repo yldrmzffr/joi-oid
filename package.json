@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yldrmzffr/joi-oid.git",
+    "url": "git+https://github.com/yldrmzffr/joi-oid.git"
   },
   "keywords": [
     "joi",
