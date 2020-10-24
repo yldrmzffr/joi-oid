@@ -1,0 +1,31 @@
+{
+  "name": "joi-oid",
+  "version": "1.0.0",
+  "description": "Joi validator with Mongo ObjectId",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yldrmzffr/joi-oid.git",
+  },
+  "keywords": [
+    "joi",
+    "mongo",
+    "objectid",
+    "mongoose",
+    "bson",
+    "oid"
+  ],
+  "author": "yldrmzffr <muzaffer@yldrmzffr.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yldrmzffr/joi-oid/issues"
+  },
+  "homepage": "https://github.com/yldrmzffr/joi-oid#readme",
+  "dependencies": {
+    "bson": "^4.2.0",
+    "joi": "^17.3.0"
+  }
+}

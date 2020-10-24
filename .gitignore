@@ -1,0 +1,14 @@
+# package directories
+node_modules
+jspm_packages
+
+# Editor
+.vscode/
+.idea/
+*-workspace
+
+# Build
+.build/
+
+# Environment variables
+.env
