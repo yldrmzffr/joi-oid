@@ -1,6 +1,6 @@
-const assert = require('assert');
-const Joi = require('../');
-const ObjectId = require('bson').ObjectId;
+const assert = require('assert')
+const Joi = require('../')
+const ObjectId = require('bson').ObjectId
 
 
 describe('joi-oid', () => {
@@ -17,7 +17,7 @@ describe('joi-oid', () => {
 
         testData.map(async data =>  {
             const result = await Joi.objectId().validate(data)
-            assert(!result.error, result.error);
+            assert(!result.error, result.error)
         })
         done()
     })
@@ -31,7 +31,7 @@ describe('joi-oid', () => {
 
         testData.map(async data =>  {
             const result = await Joi.objectId().validate(data)
-            assert(!!result.error, result.error);
+            assert(!!result.error, result.error)
         })
         done()
     })
