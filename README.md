@@ -1,6 +1,10 @@
 
 # joi-oid
 
+[![view on npm](https://badgen.net/npm/v/joi-oid)](https://www.npmjs.org/package/joi-oid)
+[![npm module downloads](https://badgen.net/npm/dt/joi-oid)](https://www.npmjs.org/package/joi-oid)
+[![licence](https://badgen.net/npm/license/lodash)](https://github.com/yldrmzffr/joi-oid/blob/master/LICENSE)
+
 Joi validator with Mongo ObjectId. 
 
 ### Installation
