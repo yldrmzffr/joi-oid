@@ -33,5 +33,7 @@
     "joi": "^17.3.0",
     "mocha": "^8.2.0"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/yldrmzffr/"
+  }
 }
